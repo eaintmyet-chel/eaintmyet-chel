@@ -1,13 +1,9 @@
 # Hello, I'm Eaint Myet Chel 👋
-## Aspiring Software Developer | Computer Science Student
+## Business Analytic Student
 
-I'm currently studying Computer Science at San Jose City College,
-focusing on full-stack development and cloud computing.
+I'm currently studying Business Administration at San Jose City College,
+focusing on business management and data analytic.
 
-### Current Projects
-- Building a weather tracking application using React and Node.js
-- Contributing to open-source documentation projects
-- Developing a student resource management system
 
 ### I'm currently learning
 - HTML, CSS, and JavaScript
